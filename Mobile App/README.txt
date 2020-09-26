@@ -1,0 +1,1 @@
+You Can import .aia file into app inventor (https://appinventor.mit.edu/) and see the whole code blocks.
